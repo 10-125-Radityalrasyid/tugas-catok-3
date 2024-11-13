@@ -1,4 +1,4 @@
-/* Mengatur tampilan body */
+
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f0f4f8;
@@ -7,7 +7,7 @@ body {
     padding: 0;
 }
 
-/* Navbar */
+
 nav {
     background-color: #007acc;
     padding: 10px 20px;
@@ -33,7 +33,7 @@ nav ul li a:hover {
     border-radius: 5px;
 }
 
-/* Kontainer Utama */
+
 .container {
     max-width: 900px;
     margin: 20px auto;
@@ -43,14 +43,14 @@ nav ul li a:hover {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Section Heading */
+
 h1 {
     text-align: center;
     color: #007acc;
     margin-bottom: 20px;
 }
 
-/* Profile Section */
+
 .profile-section {
     display: flex;
     align-items: center;
@@ -74,7 +74,7 @@ h2 {
     color: #007acc;
 }
 
-/* Tabel Data Pribadi */
+
 table {
     width: 100%;
     border-collapse: collapse;
@@ -92,7 +92,7 @@ th {
     color: white;
 }
 
-/* List Pendidikan */
+
 ul {
     list-style-type: square;
     padding-left: 20px;
@@ -102,7 +102,7 @@ ul li {
     margin-bottom: 10px;
 }
 
-/* Link Kontak */
+
 a {
     color: #007acc;
     text-decoration: none;
